@@ -15,7 +15,7 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ---
 
-## 💻 Skills & Tools
+## 💫 Skills & Tools
 [![Python](https://img.shields.io/badge/Python-E0F7FA?style=flat-square&logo=python&logoColor=black)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-E0F7FA?style=flat-square&logo=javascript&logoColor=black)]
 [![React](https://img.shields.io/badge/React-E0F7FA?style=flat-square&logo=react&logoColor=black)]
@@ -25,5 +25,4 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ##  Stats
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&layout=compact&theme={"bg":"0a0a0a","title":"E0F7FA","text":"E0F7FA","icon":"E0F7FA","icon_color":"E0F7FA"})
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&layout=compact&theme=tokyonight)
