@@ -28,5 +28,6 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ##  Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&layout=compact&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&layout=compact&theme=dark)
+
 
