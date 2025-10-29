@@ -1,6 +1,6 @@
-<div align="center">
-  <h1 style="font-size: 3rem; color: #0f172a;">Aurumz</h1>
-</div>
+# Aurumz
+
+I am a Medical Student with a keen interest in Development, Open Access, and Animation.
 
 ---
 
@@ -23,18 +23,17 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aurumz-rgb&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurumz-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&theme=dark&layout=donut&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4" alt="Trophies" />
 </div>
 
 ---
 
-## 📈 Activity
+##  Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aurumz-rgb&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
@@ -42,6 +41,5 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ---
 
-<div align="center">
-  <i>*Ps. Sorry guys, ReviewAid has been privatised for now.*</i>
-</div>
+*Ps. Sorry guys, ReviewAid has been privatised for now.*
+
