@@ -36,7 +36,7 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 ---
 
 ## 📈 Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aurumz-rgb&theme=github-dark)
+![Activity Graph](https://activity-graph.vercel.com/graph?username=aurumz-rgb&theme=github-dark)
 
 ---
 
