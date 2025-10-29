@@ -1,5 +1,10 @@
 <div align="center">
-  <h1 style="font-size: 3rem; background: linear-gradient(to right, #0f172a, #1e293b, #334155); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Aurumz</h1>
+  <a href="https://github.com/aurumz-rgb">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=120&section=header&text=Aurumz&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  </a>
+</div>
+
+<div align="center">
   <i>"Bridging Medicine and Technology with Passion"</i>
 </div>
 
@@ -54,10 +59,16 @@ I'm a Medical Student passionate about the intersection of healthcare and techno
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurumz-rgb&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurumz-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&theme=dark&layout=donut&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4" alt="Trophies" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=aurumz-rgb&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aurumz-rgb&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&theme=dark&layout=donut&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4" alt="Trophies" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -69,6 +80,10 @@ I'm a Medical Student passionate about the intersection of healthcare and techno
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e293b&height=80&section=footer" />
+</div>
 
 <div align="center">
   <i>*Ps. Sorry guys, ReviewAid has been privatised for now.*</i>
