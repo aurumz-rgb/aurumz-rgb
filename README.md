@@ -17,12 +17,27 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 ![HTML](https://img.shields.io/badge/HTML-E0F7FA?style=flat-square&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-E0F7FA?style=flat-square&logo=css3&logoColor=black)
 
-
 ---
 
 ##  Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aurumz-rgb&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurumz-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&theme=dark&layout=donut&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4" alt="Trophies" />
+</div>
 
+---
 
-Ps. Sorry guys, ReviewAid has been privatised for now. 
+## 🏆 Achievements
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4)](https://github.com/aurumz-rgb)
+
+---
+
+## 📈 Activity
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aurumz-rgb&theme=github-dark)
+
+---
+
+*Ps. Sorry guys, ReviewAid has been privatised for now.*
