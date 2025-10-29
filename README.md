@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=header&text=AURUMZ&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <a href="https://github.com/aurumz-rgb">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=120&section=header&text=Aurumz&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  </a>
 </div>
 
 <div align="center">
@@ -32,7 +34,7 @@ I'm a Medical Student passionate about the intersection of healthcare and techno
 
 <div align="center">
   <a href="mailto:pteroisvolitans12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E0F7FA?style=for-the-badge&logo=gmail&logoColor=black&link=mailto:pteroisvolitans12@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-E0F7FA?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://github.com/aurumz-rgb">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
@@ -57,18 +59,16 @@ I'm a Medical Student passionate about the intersection of healthcare and techno
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurumz-rgb&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurumz-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&theme=dark&layout=donut&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4" alt="Trophies" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=aurumz-rgb&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aurumz-rgb&theme=dark&hide_border=true" alt="GitHub Streak" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&theme=dark&layout=donut&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=aurumz-rgb&theme=darkhub&no-frame=true&row=1&column=4" alt="Trophies" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -76,13 +76,13 @@ I'm a Medical Student passionate about the intersection of healthcare and techno
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aurumz-rgb&theme=github-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aurumz-rgb&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e293b&height=80&section=footer" />
 </div>
 
 <div align="center">
