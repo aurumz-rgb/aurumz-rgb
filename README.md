@@ -28,7 +28,6 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ##  Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aurumz-rgb&theme=dark&hide_border=true" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&theme=dark&layout=donut&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ---
