@@ -6,7 +6,7 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ## 🔭 Currently Working On
 - Research tools  
-- Streamlit & Astro + Preact web apps  
+- Streamlit web apps  
 
 ---
 
