@@ -1,4 +1,4 @@
-![Logo](banner10.png)
+![Logo](banner_1.png)
 
 I am a Medical Student with a keen interest in Development, Open Access, and Animation.
 
