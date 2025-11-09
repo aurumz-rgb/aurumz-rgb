@@ -9,7 +9,7 @@ I’m always open to collaboration, feedback and ideas - feel free to drop a lin
 - 🌐 GitHub → [aurumz-rgb](https://github.com/aurumz-rgb)  
 - ✉️ Email → [Mail](pteroisvolitans12@gmail.com)  
 - 📄 ResearchGate → [V.S.](https://www.researchgate.net/profile/Vihaan-Sahu)
-- 📄 X (Twitter) → [V.S.](https://www.researchgate.net/profile/Vihaan-Sahu)
+- 🆔 ORCID → [0009-0008-5790-1818](https://orcid.org/0009-0008-5790-1818)
 
 
 
