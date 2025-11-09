@@ -4,7 +4,7 @@ I am a Medical Student with a keen interest in Development, Open Access, and Ani
 
 ---
 
-## 💫 Support
+## 🌐 Support
 [![Email](https://img.shields.io/badge/Email-E0F7FA?style=flat-square&logo=gmail&logoColor=black)](mailto:pteroisvolitans12@gmail.com)
 
 ---
