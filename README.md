@@ -5,11 +5,11 @@ A Medical Student with a keen interest in Development, Open Access and Animation
 ![Line](morse.png)
 
 
-I’m always open to collaboration, feedback and ideas - feel free to drop a line!
-- 🌐 GitHub → [aurumz-rgb](https://github.com/aurumz-rgb)  
-- ✉️ Email → [Mail](pteroisvolitans12@gmail.com)  
-- 📄 ResearchGate → [V.S.](https://www.researchgate.net/profile/Vihaan-Sahu)
-- 🆔 ORCID → [0009-0008-5790-1818](https://orcid.org/0009-0008-5790-1818)
+🌐 I’m always open to collaboration, feedback and ideas - feel free to drop a line!
+-  GitHub → [aurumz-rgb](https://github.com/aurumz-rgb)  
+-  Email → [Mail](pteroisvolitans12@gmail.com)  
+-  ResearchGate → [V.S.](https://www.researchgate.net/profile/Vihaan-Sahu)
+-  ORCID → [0009-0008-5790-1818](https://orcid.org/0009-0008-5790-1818)
 
 
 
