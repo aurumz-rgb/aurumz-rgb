@@ -1,4 +1,4 @@
-![Logo](banner_1.png)
+![Logo](banner_final.png)
 
 A Medical Student with a keen interest in Development, Open Access and Animation. I've also found an interest in Research, Evidence synthesis based Research methodology, Evidence synthesis and open-source Research Softwares.
 
