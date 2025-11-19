@@ -9,7 +9,7 @@ A Medical Student with a keen interest in Development, Open Access and Animation
 -  GitHub → [aurumz-rgb](https://github.com/aurumz-rgb)  
 -  Email → [Mail](mailto:pteroisvolitans12@gmail.com)  
 -  ResearchGate → [V.S.](https://www.researchgate.net/profile/Vihaan-Sahu)
--  ORCID → [0009-0008-5790-1818](https://orcid.org/0009-0008-5790-1818)
+
 
 
 
