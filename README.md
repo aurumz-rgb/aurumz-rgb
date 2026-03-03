@@ -35,7 +35,6 @@ A Medical Student with a keen interest in Development, Open Access and Animation
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurumz-rgb&theme=dark" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurumz-rgb&theme=dark" />
 </p>
 
 
