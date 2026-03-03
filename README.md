@@ -29,8 +29,15 @@ A Medical Student with a keen interest in Development, Open Access and Animation
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurumz-rgb&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=6494ED&text_color=ffffff&bg_color=151515" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumz-rgb&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=151515" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurumz-rgb&theme=dark" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurumz-rgb&theme=dark" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurumz-rgb&theme=dark" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurumz-rgb&theme=dark" />
 </p>
+
+
 
 
