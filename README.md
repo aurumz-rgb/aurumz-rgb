@@ -19,7 +19,6 @@ A Medical Student with a keen interest in Development, Open Access and Animation
 ![HTML](https://img.shields.io/badge/HTML-E0F7FA?style=flat-square&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-E0F7FA?style=flat-square&logo=css3&logoColor=black)
 ![R](https://img.shields.io/badge/R-E0F7FA?style=flat-square&logo=r&logoColor=black)
-![React](https://img.shields.io/badge/React-E0F7FA?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-E0F7FA?style=flat-square&logo=streamlit&logoColor=black)
 ![Shiny](https://img.shields.io/badge/ShinyApps-E0F7FA?style=flat-square&logo=rstudio&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E0F7FA?style=flat-square&logo=git&logoColor=black)
