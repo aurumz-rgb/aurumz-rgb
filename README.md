@@ -2,15 +2,13 @@
 
 A Medical Student with a keen interest in Development, Open Access and Animation. I've also found an interest in Research, Evidence synthesis based Research methodology, Evidence synthesis and open-source Research Softwares.
 
+I work in cycles of intense focus followed by lower-stimulation breaks, so I may be unavailable at times. For urgent matters, please email me at [vsahu@seu.edu.ge](mailto:vsahu@seu.edu.ge).
+
 ![Line](line_final.png)
 
 
 🌐 I’m always open to collaboration, feedback and ideas - feel free to drop a line!
--  GitHub → [aurumz-rgb](https://github.com/aurumz-rgb)  
--  Email → [Mail](mailto:pteroisvolitans12@gmail.com)  
--  ResearchGate → [V.S.](https://www.researchgate.net/profile/Vihaan-Sahu)
-
-
+-  Email → [pteroisvolitans12](mailto:pteroisvolitans12@gmail.com)  
 
 
 
