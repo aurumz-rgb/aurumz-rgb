@@ -1,6 +1,7 @@
 ![Logo](banner_final.png)
 
-A Medical Student with a keen interest in Development, Open Access and Animation. I've also found an interest in Research, Evidence synthesis based Research methodology, Evidence synthesis and open-source Research Softwares.
+
+A Medical Student involved in medicine based research, evidence based research methodologies, evidence synthesis and open-source research softwares involving the same. I also have a keen interest in Development, Open Access and Animation. 
 
 I work in cycles of intense focus followed by lower-stimulation breaks, so I may be unavailable at times. For urgent matters, please email me at [vsahu@seu.edu.ge](mailto:vsahu@seu.edu.ge).
 
