@@ -1,11 +1,10 @@
 ![Logo](banner-gold-pile1.png)
 
+![Line](line_final.png)
 
 I am a medical studenti involved in medicine based research, evidence based research methodologies, evidence synthesis and open-source research softwares involving the same. I also have a keen interest in development, open Access and animation. 
 
 I work in cycles of intense focus followed by lower-stimulation breaks, so I may be unavailable at times. For urgent matters, please email me at [vsahu@seu.edu.ge](mailto:vsahu@seu.edu.ge).
-
-![Line](line_final.png)
 
 
 🌐 I’m always open to collaboration, feedback and ideas - feel free to drop a line!
