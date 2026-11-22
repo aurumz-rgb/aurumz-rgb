@@ -1,4 +1,4 @@
-![Logo](banner-gold-pile.png)
+![Logo](banner-gold-pile1.png)
 
 
 I am a medical studenti involved in medicine based research, evidence based research methodologies, evidence synthesis and open-source research softwares involving the same. I also have a keen interest in development, open Access and animation. 
